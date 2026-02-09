@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "APS_CLIENT_ID": "@aps_client_id",
+    "APS_CLIENT_SECRET": "@aps_client_secret"
+  }
+}
