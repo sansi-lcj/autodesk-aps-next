@@ -1,7 +1,7 @@
 # Autodesk Platform Services (APS) Next.js Dashboard
 
 ![Autodesk APS](https://img.shields.io/badge/Autodesk-APS-blue?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge)
 
@@ -17,7 +17,7 @@ A comprehensive Next.js dashboard for integrating Autodesk Platform Services (fo
 
 ## 📦 Tech Stack
 
-- **Framework**: Next.js 15 (App Router)
+- **Framework**: Next.js 16 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **State Management**: TanStack Query (React Query)
